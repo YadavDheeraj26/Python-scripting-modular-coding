@@ -1,33 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@YadavDheeraj26
-c17hawke /
-Python-scripting---Modular-coding-for-PERCEPTRON
-Public
-
-Fork your own copy of c17hawke/Python-scripting---Modular-coding-for-PERCEPTRON
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-Python-scripting---Modular-coding-for-PERCEPTRON/.gitignore
-@c17hawke
-c17hawke First commit
-Latest commit 655bd25 Nov 19, 2021
-History
-1 contributor
-129 lines (105 sloc) 1.76 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
